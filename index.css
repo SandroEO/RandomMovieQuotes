@@ -1,0 +1,43 @@
+body {
+    background-color: #8B0000;
+    color: white;
+}
+
+h1 {
+    font-family: 'Lobster', 'cursive';
+    font-size: 5rem;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.whatMovie {
+    text-align: right;
+    margin-right: 15px;
+}
+
+#movie {
+    font-size: 1.2rem;
+}
+
+.container {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    font-size: 2rem;
+    color: #8B0000;
+    background-color: white;
+}
+
+.btn {
+    margin: 0 auto;
+    display: block;
+    color: #8B0000;
+    border: 2px solid #8B0000;
+    font-size: 2rem;
+    font-family: 'Lobster', cursive;
+}
+
+footer {
+    text-align: center;
+    margin-top: 100px;
+}
